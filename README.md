@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Abdulsamet Yılmaz
 ### Computer Programmer | ASP.NET Core & Backend Developer
+#### Unfortunately, my old GitHub account has been deleted 🤦‍♂️ I’m now here with this account.
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -11,12 +12,12 @@
 ---
 
 ### 💻 Technical Focus
-[cite_start]I specialize in transforming complex business logic into sustainable systems using **Clean Architecture** principles[cite: 7, 91]. My goal is to write code that is not just functional, but maintainable, testable, and scalable.
+I specialize in transforming complex business logic into sustainable systems using **Clean Architecture** principles. My goal is to write code that is not just functional, but maintainable, testable, and scalable.
 
-* [cite_start]**Architecture:** Layered Architecture, RESTful API Design, Asynchronous Programming[cite: 68, 71, 77].
-* [cite_start]**Backend:** ASP.NET Core, Entity Framework Core, LINQ, Dependency Injection[cite: 65, 68, 69, 74].
-* [cite_start]**Database:** MSSQL, Data Modeling, and CRUD Optimization[cite: 59, 61, 73].
-* [cite_start]**Core Skills:** OOP Principles, Exception Handling, Advanced Algorithm Design[cite: 78, 81, 84].
+* **Architecture:** Layered Architecture, RESTful API Design, Asynchronous Programming.
+* **Backend:** ASP.NET Core, Entity Framework Core, LINQ, Dependency Injection.
+* **Database:** MSSQL, Data Modeling, and CRUD Optimization.
+* **Core Skills:** OOP Principles, Exception Handling, Advanced Algorithm Design.
 
 ---
 
@@ -24,22 +25,22 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **AspWebApi Infrastructure** | [cite_start]Scalable RESTful API infrastructure designed for standardized data communication[cite: 70, 71]. | [cite_start].NET Core, EF Core, JSON [cite: 76] |
-| **Corporate Web System** | [cite_start]Dynamic content management system with responsive frontend integration[cite: 59, 60]. | [cite_start]ASP.NET, C#, MSSQL [cite: 64] |
-| **Logic & OOP Repository** | [cite_start]A comprehensive library for algorithms and advanced Object-Oriented Programming[cite: 78, 79]. | [cite_start]C# Fundamentals [cite: 79] |
+| **AspWebApi Infrastructure** | Scalable RESTful API infrastructure designed for standardized data communication. | .NET Core, EF Core, JSON |
+| **Corporate Web System** | Dynamic content management system with responsive frontend integration. | ASP.NET, C#, MSSQL |
+| **Logic & OOP Repository** | A comprehensive library for algorithms and advanced Object-Oriented Programming. | C# Fundamentals |
 
 ---
 
 ### 🎓 Education & Certifications
-* [cite_start]**Istanbul Aydın University** – Computer Programming[cite: 55, 56].
-* [cite_start]**Arı Bilgi** – Software Specialization[cite: 52, 53].
-* [cite_start]**Key Certifications:** Cisco Cybersecurity Essentials, BTK Academy GitHub/Networking, Linux Essentials[cite: 102, 104, 105, 106].
+* **Istanbul Aydın University** – Computer Programming.
+* **Arı Bilgi** – Software Specialization.
+* **Key Certifications:** Cisco Cybersecurity Essentials, BTK Academy GitHub/Networking, Linux Essentials.
 
 ---
 
 ### 🌐 Languages
-* [cite_start]**English:** B1 Level [cite: 17]
-* [cite_start]**Arabic:** B2 Level [cite: 19]
+* **English:** B1 Level
+* **Arabic:** B2 Level
 * **Turkish:** Native
 
 ---
@@ -51,5 +52,5 @@
 
 ---
 <p align="center">
-  [cite_start]<i>"Building a better user experience in every line of code[cite: 9]."</i>
+  <i>"Building a better user experience in every line of code."</i>
 </p>
