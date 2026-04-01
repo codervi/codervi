@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Abdulsamet Yılmaz
 ### Computer Programmer | ASP.NET Core & Backend Developer
-#### Unfortunately, my old GitHub account has been deleted 🤦‍♂️ I’m now here with this account.
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -12,7 +11,7 @@
 ---
 
 ### 💻 Technical Focus
-[cite_start]I specialize in transforming complex business logic into sustainable systems using **Clean Architecture** principles[cite: 7, 91]. [cite_start]My goal is to write code that is not just functional, but maintainable, testable, and scalable.
+[cite_start]I specialize in transforming complex business logic into sustainable systems using **Clean Architecture** principles[cite: 7, 91]. My goal is to write code that is not just functional, but maintainable, testable, and scalable.
 
 * [cite_start]**Architecture:** Layered Architecture, RESTful API Design, Asynchronous Programming[cite: 68, 71, 77].
 * [cite_start]**Backend:** ASP.NET Core, Entity Framework Core, LINQ, Dependency Injection[cite: 65, 68, 69, 74].
@@ -39,18 +38,18 @@
 ---
 
 ### 🌐 Languages
-* [cite_start]**English:** B1 Level [cite: 16, 17]
-* [cite_start]**Arabic:** B2 Level [cite: 18, 19]
+* [cite_start]**English:** B1 Level [cite: 17]
+* [cite_start]**Arabic:** B2 Level [cite: 19]
 * **Turkish:** Native
 
 ---
 
 ### 📫 Connect with me
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmtylmz) [cite: 110]
-[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.asmtylmz@gmail.com) [cite: 5]
-[cite_start][![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codervi) [cite: 109]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmtylmz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.asmtylmz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codervi)
 
 ---
 <p align="center">
-  [cite_start]<i>"Building a better user experience in every line of code."</i> [cite: 9]
+  [cite_start]<i>"Building a better user experience in every line of code[cite: 9]."</i>
 </p>
