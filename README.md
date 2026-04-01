@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdulsamet Yılmaz
 ### Computer Programmer | ASP.NET Core & Backend Developer
-#### Unfortunately, my old GitHub account has been deleted 🤦‍♂️ I’m now here with this account.
+#### Unfortunately, my old GitHub account has been deleted 🤦‍♂️ I’m now here with this account. 
+My old username was coderVi – you might remember me by that nickname.
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
