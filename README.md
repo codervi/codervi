@@ -10,6 +10,10 @@ My old username was coderVi – you might remember me by that nickname.
 <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ### 💻 Technical Focus
