@@ -11,7 +11,7 @@ My old username was coderVi – you might remember me by that nickname.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervi&layout=compact&theme=radical&hide_border=true&show_icons=true" alt="Top Languages" />
 </p>
 
 ---
