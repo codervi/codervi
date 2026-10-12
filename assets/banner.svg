@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Abdulsamet Yılmaz, ASP.NET Core backend developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#1b1b4b"/>
+      <stop offset="1" stop-color="#3a1c71"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.8" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name { font: 800 54px "Segoe UI", Helvetica, Arial, sans-serif; fill: #fff; }
+      .role { font: 600 24px "Segoe UI", Helvetica, Arial, sans-serif; fill: url(#accent); }
+      .stack { font: 500 17px "Segoe UI", Helvetica, Arial, sans-serif; fill: #b8c0e0; }
+      .mono { font: 15px Consolas, "Courier New", monospace; fill: #c9d1f5; }
+      .dim { fill: #7d86ad; }
+      .ok { fill: #4ade80; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .float1 { animation: float 7s ease-in-out infinite; }
+      .float2 { animation: float 9s ease-in-out infinite reverse; }
+      .line { stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 2.4s ease-out forwards; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes float { 50% { transform: translateY(-10px); } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <g opacity="0.5">
+    <circle class="float1" cx="1010" cy="60" r="70" fill="none" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <circle class="float2" cx="90" cy="270" r="46" fill="none" stroke="#7c5cff" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- left: text -->
+  <text class="name" x="64" y="130">Abdulsamet Yılmaz</text>
+  <rect x="66" y="150" width="520" height="4" rx="2" fill="url(#accent)" class="line"/>
+  <text class="role" x="64" y="200">ASP.NET Core Backend Developer</text>
+  <text class="stack" x="64" y="240">C#  ·  SQL Server  ·  REST APIs  ·  JavaScript</text>
+  <text class="stack" x="64" y="270" opacity="0.7">Istanbul  ·  open to junior and mid-level roles abroad</text>
+
+  <!-- right: terminal -->
+  <g transform="translate(700 70)">
+    <rect width="440" height="180" rx="12" fill="#0a0e1c" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect width="440" height="34" rx="12" fill="#151a30"/>
+    <rect y="22" width="440" height="12" fill="#151a30"/>
+    <circle cx="22" cy="17" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="17" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="17" r="6" fill="#28c840"/>
+    <text class="mono dim" x="150" y="22">~/codervi</text>
+    <text class="mono" x="20" y="66"><tspan class="ok">$</tspan> dotnet run</text>
+    <text class="mono dim" x="20" y="94">info: Now listening on:</text>
+    <text class="mono" x="20" y="116">      https://localhost:7190</text>
+    <text class="mono dim" x="20" y="144">info: Application started.</text>
+    <rect class="cursor" x="20" y="152" width="9" height="16" fill="#c9d1f5"/>
+  </g>
+</svg>

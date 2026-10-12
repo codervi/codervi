@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Building a better user experience in every line of code">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#1b1b4b"/>
+      <stop offset="1" stop-color="#3a1c71"/>
+    </linearGradient>
+    <style>
+      .q { font: italic 500 20px "Segoe UI", Helvetica, Arial, sans-serif; fill: #dfe4ff; }
+      .wave1 { animation: slide 12s ease-in-out infinite alternate; }
+      .wave2 { animation: slide 9s ease-in-out infinite alternate-reverse; }
+      @keyframes slide { to { transform: translateX(-60px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="140" fill="url(#g)"/>
+  <path class="wave1" d="M-60 40 C 100 0, 250 80, 400 40 S 700 0, 850 40 S 1100 80, 1260 40 V0 H-60Z" fill="#7c5cff" opacity="0.18"/>
+  <path class="wave2" d="M-60 28 C 120 70, 280 0, 430 30 S 720 70, 880 28 S 1120 0, 1260 28 V0 H-60Z" fill="#22d3ee" opacity="0.14"/>
+  <text class="q" x="600" y="86" text-anchor="middle">"Building a better user experience in every line of code."</text>
+</svg>
