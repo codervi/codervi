@@ -43,7 +43,7 @@ Every repository has its own README that explains what it does and why it is bui
 | 💼 | [**Tern**](https://github.com/codervi/Tern) | Job board with a REST API | JWT login, search with filters and paging in SQL, a SQL view, indexes |
 | 🛒 | [**Fernhill**](https://github.com/codervi/Fernhill) | Small web shop | AJAX cart, stock that stays correct with concurrent orders, price snapshot in orders |
 | 📋 | [**Larch**](https://github.com/codervi/Larch) | Kanban board | Drag and drop in plain JavaScript, card order kept correct in the database |
-| 📅 | *Booking system* | Reservations (in progress) | Overlap checks, availability queries, stored procedures, reports |
+| 📅 | [**Heron**](https://github.com/codervi/Heron) | Meeting room booking system with an admin panel | Overlap checks that hold under concurrent bookings (row lock in a stored procedure), availability search, CHECK constraints, covering index, `ROLLUP` revenue report, SQL views |
 
 ---
 
